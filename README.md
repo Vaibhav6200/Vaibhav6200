@@ -17,26 +17,38 @@ and love solving real-world problems with clean architecture.
 
 ## 🧠 Tech Stack
 
-### Languages
-- Python, Java, JavaScript, SQL, C, C++
+## 🧠 Languages & Tools
 
-### Backend & Frameworks
-- Django
-- Django REST Framework
-- REST APIs
-- WebSockets
+### 👨‍💻 Programming Languages
 
-### Cloud & DevOps
-- AWS (EC2, S3, RDS, Lambda, API Gateway, VPC, IAM, Cognito, CloudWatch)
-- Docker
-- Git, GitHub Actions
-- Nginx, Apache
+| Python | Java | JavaScript | C | C++ |
+|------|------|------------|---|----|
+| ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) | ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg) | ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) |
 
-### Databases
-- PostgreSQL
-- MySQL
-- MongoDB
-- OracleSQL
+---
+
+### ⚙️ Backend & Frameworks
+
+| Django | Django REST | REST APIs | WebSockets |
+|-------|-------------|-----------|------------|
+| ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg) | 🧩 | 🔗 | 🔌 |
+
+---
+
+### ☁️ Cloud & DevOps
+
+| AWS | Docker | Git | GitHub Actions | Nginx |
+|-----|--------|-----|----------------|-------|
+| ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg) | ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) | ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) | ⚙️ | ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg) |
+
+---
+
+### 🗄️ Databases
+
+| PostgreSQL | MySQL | MongoDB |
+|------------|-------|---------|
+| ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) | ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) | ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) |
+
 
 ---
 

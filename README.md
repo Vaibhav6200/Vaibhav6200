@@ -17,20 +17,25 @@ and love solving real-world problems with clean architecture.
 
 ## 🧠 Tech Stack
 
-## 🧠 Tech Stack
+### Languages
+- Python, Java, JavaScript, SQL, C, C++
 
-**Languages**  
-Python · Java · JavaScript · SQL · C · C++
+### Backend & Frameworks
+- Django
+- Django REST Framework
+- REST APIs
+- WebSockets
 
-**Backend & APIs**  
-Django · Django REST Framework · REST APIs · WebSockets
+### Cloud & DevOps
+- AWS (EC2, S3, RDS, Lambda, API Gateway, VPC, IAM, Cognito, CloudWatch)
+- Docker
+- Git, GitHub Actions
+- Nginx, Apache
 
-**Cloud & DevOps**  
-AWS (EC2, S3, RDS, Lambda, API Gateway, VPC, IAM)  
-Docker · Git · GitHub Actions · Nginx · Apache
-
-**Databases**  
-PostgreSQL · MySQL · MongoDB
+### Databases
+- PostgreSQL
+- MySQL
+- MongoDB
 
 ---
 

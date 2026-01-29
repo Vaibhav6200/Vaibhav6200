@@ -45,9 +45,9 @@ and love solving real-world problems with clean architecture.
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- 🧑‍💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/vaibhavpaliwal1/
+- 🧑‍💻 GitHub: https://github.com/Vaibhav6200
+- 📧 Email: vaibhavpaliwal620@gmail.com
 
 ---
 

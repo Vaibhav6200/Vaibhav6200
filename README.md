@@ -36,6 +36,7 @@ and love solving real-world problems with clean architecture.
 - PostgreSQL
 - MySQL
 - MongoDB
+- OracleSQL
 
 ---
 

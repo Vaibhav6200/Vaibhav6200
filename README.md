@@ -34,35 +34,6 @@ and love solving real-world problems with clean architecture.
 
 ---
 
-## 💼 Experience
-
-### **Oracle** — Applications Developer 2  
-*July 2024 – Present*
-
-- Resolved **100+ production issues** in Oracle SCM (Supply Chain Planning)
-- Reduced high-severity incidents by ~30%
-- Collaborated closely with product managers and senior engineers
-
----
-
-### **Communities Heritage Limited (CHL)** — DevOps Engineer Intern  
-*Jan 2024 – Jul 2024*
-
-- Optimized AWS infrastructure and third-party services
-- Reduced operational costs by **₹1.1L+ per month**
-- Built CI/CD pipelines using GitHub Actions with self-hosted runners
-- Configured Nginx & Apache with reverse proxy and routing rules
-
----
-
-### **Madhyam Impact Foundation** — Backend Developer Intern  
-*Jun 2023 – Jul 2023*
-
-- Built REST APIs using Django & DRF for real-time chat applications
-- Implemented WebSocket-based messaging and notifications
-
----
-
 ## 📌 Highlights
 
 - 🏅 AWS Certified Solutions Architect – Associate

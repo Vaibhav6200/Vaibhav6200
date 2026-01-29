@@ -18,46 +18,35 @@ and love solving real-world problems with clean architecture.
 ## 🧠 Tech Stack
 
 ### Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-</p>
+- Python, Java, JavaScript, SQL, C, C++
 
 ### Backend & Frameworks
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
-</p>
+- Django
+- Django REST Framework
+- REST APIs
+- WebSockets
 
 ### Cloud & DevOps
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40"/>
-</p>
+- AWS (EC2, S3, RDS, Lambda, API Gateway, VPC, IAM, Cognito, CloudWatch)
+- Docker
+- Git, GitHub Actions
+- Nginx, Apache
 
 ### Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-</p>
+- PostgreSQL
+- MySQL
+- MongoDB
 
 ---
 
 ## 📌 Highlights
 
 - 🏅 AWS Certified Solutions Architect – Associate  
-- 🥇 1st Place – E-Cell Hackathon, Nirma University  
+- 🥇 1st Place – E-Cell Hackathon, Nirma University
+- 🧑‍⚖️ Judge at **TechSprint Hackathon** (GDG on Campus)
+- ☁️ Cloud Mentor @ **Google Developer Student Club** (2022–2023)    
 - 🧠 Solved 500+ LeetCode problems  
 - 🌍 CodeChef Global Rank: 171 (Long), 202 (Starters)  
-- ☁️ Cloud Mentor @ **Google Developer Student Club** (2022–2023)  
-- 🧑‍⚖️ Judge at **TechSprint Hackathon** (GDG on Campus)  
 
 ---
 

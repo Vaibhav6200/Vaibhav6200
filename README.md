@@ -34,38 +34,6 @@ and love solving real-world problems with clean architecture.
 
 ---
 
-## 🏗️ Featured Projects
-
-### 🔹 SolvifyHub — Founder & Platform Engineer  
-**Django · NextJS · MySQL · VPS**
-
-- Built a multi-vendor IT solutions marketplace
-- Designed developer onboarding, project listing, and post-purchase customization flows
-- Focused on scalable backend workflows and clean system design
-
----
-
-### 🔹 WeDesignz — Lead Platform Architect & Developer  
-**Django · NextJS · PostgreSQL · AWS**
-
-- Architected and developed a production-grade design marketplace for **8X Sports**
-- Owned core platform features with emphasis on reliability and maintainability
-- Led backend design and deployment strategy
-
----
-
-### 🔹 Electrocom ERP — Product Engineer  
-**Django · Flutter · PostgreSQL**
-
-- Built an end-to-end ERP system with web admin and mobile app
-- Implemented modules for:
-  - Document & Client Management
-  - Payroll, Attendance & Inventory
-  - Project, Task, AMC & Tender Management
-- Owned system design, deployment, and maintenance
-
----
-
 ## 💼 Experience
 
 ### **Oracle** — Applications Developer 2  
@@ -101,14 +69,6 @@ and love solving real-world problems with clean architecture.
 - 🥇 1st Place – E-Cell Hackathon, Nirma University
 - 🧠 Solved 500+ LeetCode problems
 - 🌍 CodeChef Global Rank: 171 (Long), 202 (Starters)
-
----
-
-## 🌱 Leadership & Community
-
-- Cloud Mentor @ **Google Developer Student Club** (2022–2023)
-- Judge at **TechSprint Hackathon** (GDG on Campus)
-- Actively involved in **Oracle CSR initiatives** (education, sustainability, social impact)
 
 ---
 
